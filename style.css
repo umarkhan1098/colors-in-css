@@ -1,0 +1,43 @@
+/*color name*/
+
+/*
+h1{
+    color: aqua;
+}*/
+
+/*hex code*/
+
+/* h1{
+    color: #876346;
+} */
+
+/* rgb value */
+
+/*h1 {
+    color: rgb(100,100,90);}*/
+    
+    /* background color*/
+
+   /* body {
+        background-color: rgb(200,200,200);} */
+
+        /*text background color*/
+
+       /* h1 {
+            background-color: DarkCyan;}*/
+
+            /*backgroud color with hex*/
+
+           /* h1 {
+                background-color: #ee3e80;}*/
+
+                /*background color with name*/
+
+                 /* h1{
+                    background-color: white;} */
+                 
+                    /* opacity in css */
+                    #div1{
+                        background-color: aqua; opacity: 0.4;
+                    }
+
